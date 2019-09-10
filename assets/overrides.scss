@@ -1,0 +1,29 @@
+	body, html {
+		font-family: 'News Cycle', sans-serif !important;
+    max-width: 100%;
+    overflow: none !important
+  }
+
+  .dignity {
+		font-family: 'News Cycle', sans-serif !important;
+	}
+
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: 'News Cycle', sans-serif !important;
+		font-weight: 300;
+	}
+
+	.md-drawer {
+		width: 230px;
+		max-width: calc(100vw - 125px);
+	}
+
+	.material-icons, .fa {
+		vertical-align: middle;
+	}
+
+	.md-app {
+		min-height: 100vh;
+		border: 1px solid rgba(#000, .12);
+	}
